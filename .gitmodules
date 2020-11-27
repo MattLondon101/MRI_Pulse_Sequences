@@ -1,0 +1,3 @@
+[submodule "sequencetree_dir"]
+	path = sequencetree_dir
+	url = https://github.com/MattLondon101/sequencetree_dir.git
